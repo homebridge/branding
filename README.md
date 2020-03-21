@@ -1,4 +1,4 @@
-# Homebridge Branding / Logos
+# Homebridge Branding Guidelines
 
 This repo contains the Homebridge logo and branding guidelines.
 
