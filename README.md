@@ -24,9 +24,11 @@ Homebridge logos can be found here: [logos](./logos).
 
 ### Round Transparent
 
-<img src="./logos/homebridge-logo-transparent-black.svg?sanatize=true" width="150px">
+<img src="./logos/homebridge-logo-transparent-black.png" width="150px">
 
+[Black - PNG](./logos/homebridge-logo-transparent-black.png) |
 [Black - SVG](./logos/homebridge-logo-transparent-black.svg) |
+[White - PNG](./logos/homebridge-logo-transparent-white.png) |
 [White - SVG](./logos/homebridge-logo-transparent-white.svg)
 
 ### Outline
