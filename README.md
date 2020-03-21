@@ -22,14 +22,14 @@ Homebridge logos can be found here: [logos](./logos).
 
 [Purple - PNG](./logos/homebridge-logo-duo-purple.png)
 
-### Round Transparent
+### Round Silhouette
 
-<img src="./logos/homebridge-logo-transparent-black.png" width="150px">
+<img src="./logos/homebridge-logo-silhouette-black.png" width="150px">
 
-[Black - PNG](./logos/homebridge-logo-transparent-black.png) |
-[Black - SVG](./logos/homebridge-logo-transparent-black.svg) |
-[White - PNG](./logos/homebridge-logo-transparent-white.png) |
-[White - SVG](./logos/homebridge-logo-transparent-white.svg)
+[Black - PNG](./logos/homebridge-logo-silhouette-black.png) |
+[Black - SVG](./logos/homebridge-logo-silhouette-black.svg) |
+[White - PNG](./logos/homebridge-logo-silhouette-white.png) |
+[White - SVG](./logos/homebridge-logo-silhouette-white.svg)
 
 ### Outline
 
