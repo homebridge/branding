@@ -2,6 +2,16 @@
 
 This repo contains the Homebridge logo and branding guidelines.
 
+## Naming Convention
+
+*Homebridge* is one word and only first letter should be capitalised.
+
+* :white_check_mark: Homebridge
+* :x: HomeBridge
+* :x: homebridge
+* :x: Home bridge
+* :x: Home Bridge
+
 ## Logos
 
 Homebridge logos can be found here: [logos](./logos).
