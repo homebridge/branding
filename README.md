@@ -6,6 +6,32 @@ This repo contains the Homebridge logo and branding guidelines.
 
 Homebridge logos can be found here: [logos](./logos).
 
+### Round
+
+<img src="./logos/homebridge-logo-duo-purple.png" width="150px">
+
+[Purple - PNG](./logos/homebridge-logo-duo-purple.png)
+
+### Outline
+
+<img src="./logos/homebridge-logo-outline-black.png" width="150px">
+
+[Black - PNG](./logos/homebridge-logo-outline-black.png) |
+[Black - SVG](./logos/homebridge-logo-outline-black.svg) |
+[White - SVG](./logos/homebridge-logo-outline-white.svg) |
+[White - PNG](./logos/homebridge-logo-outline-white.png) |
+[Purple - PNG](./logos/homebridge-logo-outline-purple.png)
+
+### Gradient
+
+<img src="./logos/homebridge-logo-gradient-square.png" width="150px">
+
+[Purple Gradient - PNG](./logos/homebridge-logo-gradient-square.png)
+
+<img src="./logos/homebridge-logo-gradient-named.png" width="150px">
+
+[Purple Gradient + "Homebridge" - PNG](./logos/homebridge-logo-gradient-named.png)
+
 ## Community
 
 ### Discord
