@@ -12,6 +12,23 @@ This repository contains the Homebridge logo and branding guidelines.
 * :x: Home bridge
 * :x: Home Bridge
 
+## Logo Usage
+
+Feel free to:
+
+* :white_check_mark: Use the Homebridge logo to link to the Homebridge website or associated project pages
+* :white_check_mark: Use the Homebridge logo in a Homebridge plugin's project README file or documentation 
+* :white_check_mark: Use the Homebridge logo to advertise that your product works with Homebridge
+* :white_check_mark: Use the logo in a blog post or news article about Homebridge
+
+Please do not:
+
+* :x: Use the Homebridge logo for your application’s icon without prior permission
+* :x: Use the Homebridge logo in a way that implies official Homebridge endorsement
+* :x: Integrate the Homebridge logo into your logo
+* :x: Create a modified version of the Homebridge logo
+* :x: Use the Homebridge logo for commerical use
+
 ## Project Files
 
 Adobe Illustrator files.
