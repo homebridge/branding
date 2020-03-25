@@ -1,6 +1,6 @@
 # Homebridge Branding Guidelines
 
-This repo contains the Homebridge logo and branding guidelines.
+This repository contains the Homebridge logo and branding guidelines.
 
 ## Naming Convention
 
@@ -12,44 +12,65 @@ This repo contains the Homebridge logo and branding guidelines.
 * :x: Home bridge
 * :x: Home Bridge
 
+## Project Files
+
+Adobe Illustrator files.
+
+* [All logo assets](./logos/homebridge-assets-project.ai)
+* [Wordmark and logo](./logos/homebridge-wordmark-logo-project.ai)
+* [Plugin header image template](./logos/homebridge-plugin-template.ai)
+
 ## Logos
 
 Homebridge logos can be found here: [logos](./logos).
 
-### Round
+### Color
 
-<img src="./logos/homebridge-logo-duo-purple.png" width="150px">
+#### Square
 
-[Purple - PNG](./logos/homebridge-logo-duo-purple.png)
+<img src="./logos/homebridge-color-square.svg" width="150px">
 
-### Round Silhouette
+* Square: [PNG](./logos/homebridge-color-square.png) | [SVG](./logos/homebridge-color-square.svg)
+* Padded Square: [PNG](./logos/homebridge-color-square-padded.png) | [SVG](./logos/homebridge-color-square-padded.svg)
 
-<img src="./logos/homebridge-logo-silhouette-black.png" width="150px">
+#### Round
 
-[Black - PNG](./logos/homebridge-logo-silhouette-black.png) |
-[Black - SVG](./logos/homebridge-logo-silhouette-black.svg) |
-[White - PNG](./logos/homebridge-logo-silhouette-white.png) |
-[White - SVG](./logos/homebridge-logo-silhouette-white.svg)
+<img src="./logos/homebridge-color-round.svg" width="150px">
+<img src="./logos/homebridge-color-round-stylized.svg" width="150px">
 
-### Outline
+* Round: [PNG](./logos/homebridge-color-round.png) | [SVG](./logos/homebridge-color-round.svg)
+* Round Stylized: [PNG](./logos/homebridge-color-round-stylized.png) | [SVG](./logos/homebridge-color-round-stylized.svg)
 
-<img src="./logos/homebridge-logo-outline-black.png" width="150px">
+### Silhouette
 
-[Black - PNG](./logos/homebridge-logo-outline-black.png) |
-[Black - SVG](./logos/homebridge-logo-outline-black.svg) |
-[White - SVG](./logos/homebridge-logo-outline-white.svg) |
-[White - PNG](./logos/homebridge-logo-outline-white.png) |
-[Purple - PNG](./logos/homebridge-logo-outline-purple.png)
+#### Square
 
-### Gradient
+<img src="./logos/homebridge-silhouette-square-black.svg" width="150px">
 
-<img src="./logos/homebridge-logo-gradient-square.png" width="150px">
+* Black: [PNG](./logos/homebridge-silhouette-square-black.png) | [SVG](./logos/homebridge-silhouette-square-black.svg)
+* White: [PNG](./logos/homebridge-silhouette-square-white.png) | [SVG](./logos/homebridge-silhouette-square-white.svg)
 
-[Purple Gradient - PNG](./logos/homebridge-logo-gradient-square.png)
+#### Round
 
-<img src="./logos/homebridge-logo-gradient-named.png" width="150px">
+<img src="./logos/homebridge-silhouette-round-black.svg" width="150px">
 
-[Purple Gradient + "Homebridge" - PNG](./logos/homebridge-logo-gradient-named.png)
+* Black: [PNG](./logos/homebridge-silhouette-round-black.png) | [SVG](./logos/homebridge-silhouette-round-black.svg)
+* White: [PNG](./logos/homebridge-silhouette-round-white.png) | [SVG](./logos/homebridge-silhouette-round-white.svg)
+
+
+#### Outline
+
+<img src="./logos/homebridge-outline-black.svg" width="150px">
+
+* Black: [PNG](./logos/homebridge-outline-black.png) | [SVG](./logos/homebridge-outline-black.svg)
+* White: [PNG](./logos/homebridge-outline-white.png) | [SVG](./logos/homebridge-outline-white.svg)
+
+### Wordmark
+
+<img src="./logos/homebridge-wordmark-logo.png" width="450px">
+
+* Wordmark and Logo: [PNG](./logos/homebridge-wordmark-logo.png) | [SVG](./logos/homebridge-wordmark-logo.svg)
+* Font: [DIN 2014](https://fonts.adobe.com/fonts/din-2014)
 
 ## Community
 
@@ -84,4 +105,3 @@ Banner:
 ## Credits
 
 The Homebridge logo was designed by [Gabriel Garcia](https://github.com/ggabogarcia).
-
