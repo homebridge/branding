@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png" height="140">
+  <a href=""><img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png" height="140"></a>
 </p>
 
 # Homebridge Branding Guidelines
