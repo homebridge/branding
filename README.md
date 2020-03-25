@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png" height="140">
+</p>
+
 # Homebridge Branding Guidelines
 
 This repository contains the Homebridge logo and branding guidelines.
