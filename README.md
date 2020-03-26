@@ -21,7 +21,7 @@ This repository contains the Homebridge logo and branding guidelines.
 Feel free to:
 
 * :white_check_mark: Use the Homebridge logo to link to the Homebridge website or associated project pages
-* :white_check_mark: Use the Homebridge logo in a Homebridge plugin's project README file or documentation 
+* :white_check_mark: Use the Homebridge logo in a Homebridge plugin's project README file or documentation
 * :white_check_mark: Use the Homebridge logo to advertise that your product works with Homebridge
 * :white_check_mark: Use the logo in a blog post or news article about Homebridge
 
@@ -88,9 +88,11 @@ Homebridge logos can be found here: [logos](./logos).
 
 ### Wordmark
 
-<img src="./logos/homebridge-wordmark-logo.png" width="450px">
+<img src="./logos/homebridge-wordmark-logo-horizontal.png" width="450px">
+<img src="./logos/homebridge-wordmark-logo-vertical.png" width="150px">
 
-* Wordmark and Logo: [PNG](./logos/homebridge-wordmark-logo.png) | [SVG](./logos/homebridge-wordmark-logo.svg)
+* Horizontal: [PNG](./logos/homebridge-wordmark-logo-horizontal.png) | [SVG](./logos/homebridge-wordmark-logo-horizontal.svg)
+* Vertical: [PNG](./logos/homebridge-wordmark-logo-vertical.png) | [SVG](./logos/homebridge-wordmark-logo-vertical.svg)
 * Font: [DIN 2014](https://fonts.adobe.com/fonts/din-2014)
 
 ## Community
